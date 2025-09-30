@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing turtle_shapes.egg-info/PKG-INFO
+writing dependency_links to turtle_shapes.egg-info/dependency_links.txt
+writing entry points to turtle_shapes.egg-info/entry_points.txt
+writing requirements to turtle_shapes.egg-info/requires.txt
+writing top-level names to turtle_shapes.egg-info/top_level.txt
+reading manifest file 'turtle_shapes.egg-info/SOURCES.txt'
+writing manifest file 'turtle_shapes.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/youssef/ros2_shapes_project/install/turtle_shapes/lib/python3.10/site-packages/turtle-shapes.egg-link (link to .)
+Installing shape_node script to /home/youssef/ros2_shapes_project/install/turtle_shapes/lib/turtle_shapes
+Installing turtle_commander script to /home/youssef/ros2_shapes_project/install/turtle_shapes/lib/turtle_shapes
+
+Installed /home/youssef/ros2_shapes_project/build/turtle_shapes
+running symlink_data
+symbolically linking /home/youssef/ros2_shapes_project/build/turtle_shapes/resource/turtle_shapes -> /home/youssef/ros2_shapes_project/install/turtle_shapes/share/ament_index/resource_index/packages
+symbolically linking /home/youssef/ros2_shapes_project/build/turtle_shapes/package.xml -> /home/youssef/ros2_shapes_project/install/turtle_shapes/share/turtle_shapes
